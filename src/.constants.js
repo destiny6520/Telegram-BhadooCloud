@@ -25,6 +25,7 @@ module.exports = Object.freeze({
       ENABLED: true,  // If true, all commands except '/list' has to have the bot username after the command.
       NAME: "@GoogleDriveUploadTestBot" //Enter your Bot Username here if above is set to true.
     }
+  IS_TEAM_DRIVE: true
 });
 
 // already deployed in @BhadooCloud in Telegram.
