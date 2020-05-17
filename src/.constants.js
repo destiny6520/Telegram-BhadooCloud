@@ -1,5 +1,5 @@
 module.exports = Object.freeze({
-  TOKEN: 'tokenhere', //required
+  TOKEN: '1072533937:AAFUxnKnjEQvThzqECPYJK30EdY_6TnqhWA', //required
   ARIA_SECRET: 'bhadoo', //change as per needs.
   ARIA_DOWNLOAD_LOCATION: '/app/downloads)', //-leave as it is
   INDEX_DOMAIN: 'https://workers.workers.dev/', // replace with your index domain. use https://github.com/ParveenBhadooOfficial/go-drive
