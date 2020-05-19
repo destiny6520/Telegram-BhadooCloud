@@ -13,7 +13,7 @@ module.exports = Object.freeze({
   STATUS_UPDATE_INTERVAL_MS: 5000, // A smaller number will update faster, but might cause rate limiting -leave as it is
   DRIVE_FILE_PRIVATE: {
     ENABLED: false,
-    EMAILS: ['1@gmail.com', '2@gmail.com']
+    EMAILS: ['destiny6520@googlegroups.com', 'tharunpogula@gmail.com']
   }, // not required
   DOWNLOAD_NOTIFY_TARGET: {  // Information about the web service to notify on download completion. not required
     enabled: false,   // Set this to true to use the notify functionality
@@ -22,7 +22,7 @@ module.exports = Object.freeze({
     path: '/botNotify'
   },
     COMMANDS_USE_BOT_NAME: {
-      ENABLED: true,  // If true, all commands except '/list' has to have the bot username after the command.
+      ENABLED: false,  // If true, all commands except '/list' has to have the bot username after the command.
       NAME: "@GoogleDriveUploadTestBot" //Enter your Bot Username here if above is set to true.
     }
   IS_TEAM_DRIVE: true
