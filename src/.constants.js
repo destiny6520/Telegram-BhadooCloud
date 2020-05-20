@@ -1,6 +1,6 @@
 module.exports = Object.freeze({
   TOKEN: '1072533937:AAFUxnKnjEQvThzqECPYJK30EdY_6TnqhWA', //required
-  ARIA_SECRET: 'bhadoo', //change as per needs.
+  ARIA_SECRET: 'destiny', //change as per needs.
   ARIA_DOWNLOAD_LOCATION: '/app/downloads)', //-leave as it is
   INDEX_DOMAIN: 'https://teamdrive.destiny6520.workers.dev/', // replace with your index domain. use https://github.com/ParveenBhadooOfficial/go-drive
   ARIA_DOWNLOAD_LOCATION_ROOT: '/', //The mountpoint that contains ARIA_DOWNLOAD_LOCATION -leave as it is
